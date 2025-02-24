@@ -7,8 +7,8 @@
 
 **Ubicación:** San Pedro, Provincia de San José, Costa Rica
 
-**Idiomas de Programación y Tecnologías:**
-- **Lenguajes:** C#, Java, Python, PHP, C++, JavaScript, HTML5, CSS3
+**Lenguajes de Programación y Tecnologías:**
+- **Lenguajes de programación y lenguajes estructurados:** C#, Java, Python, PHP, C++, JavaScript, HTML5, CSS3
 - **Bases de Datos:** MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, SQLite
 - **Hardware y Electrónica:** Arduino, Impresión 3D, Electrónica Digital
 
